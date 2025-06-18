@@ -1,54 +1,22 @@
-# Hi there, I’m Akash Sivasubramanian 👋
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">Turning Curiosity into Code, Circuits & Insights</h3>
 
-**M.Sc. Student & Python Developer (7+ yrs)**  
-Pursuing Applied Modelling & Quantitative Methods @ Trent University | Peterborough, ON, Canada
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-siv&label=Profile%20views&color=0e75b6&style=flat" alt="akash-siv" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-siv" alt="akash-siv" /></a> </p>
 
-## 📖 About Me
-I’ve been a lifelong tinkerer—fascinated by science, electronics, and how things work. My hobbies span home‑automation design, PCB layout, 3D modeling, coding, gardening, trading, anatomy, home‑lab setups, and music. To focus on what matters, I broke free from social media, adopted pen‑and‑paper planning, and now digitize all my notes as Markdown.
+- 📝 I regularly write articles on [blog.hachn.in](blog.hachn.in)
 
-Inspired by **Feynman’s** teaching philosophy and wisdom from **The Art of War**, **Thirukural**, **Bhagavad Gita**, and **The Book of Five Rings**, I built my blog with Hugo to organize and share my learnings. Welcome—may something here spark your curiosity!
+- 📄 Know about my experiences [https://akashsivasubramanian.tiiny.site](https://akashsivasubramanian.tiiny.site)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akash-sivasubramanian-73975933a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-sivasubramanian-73975933a" height="30" width="40" /></a>
+</p>
 
-## 💼 Experience
-- **Software Developer @ Deoverse** (Feb 2019–Present, Chennai, India)  
-  – XR apps + TinyML motion classification in Unreal Engine  
-  – Image‑segmentation pipelines & home‑automation integrations  
-- **Python Developer @ SVS Infotech** (Jan 2018–Feb 2019, Chennai, India)  
-  – Web‑app backends, data scraping & Flask tooling
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-siv&show_icons=true&locale=en&layout=compact" alt="akash-siv" /></p>
 
-## 🚀 Featured Projects
-- **VR Movement Controller (TinyML)**  
-  Motion detection on microcontrollers → Unreal Engine control to reduce motion sickness.  
-- **BCI‑Based Triggers for Home Assistant**  
-  EEG signal processing + Keras models → smart‑home automation via Brainflow.  
-- **Retrieval‑Augmented QA**  
-  LangChain + self‑hosted Llama + Qdrant → domain‑aware document querying.  
-- **Home Energy Forecasting**  
-  Python + Pandas + InfluxDB + Grafana → anomaly detection & threshold alerts.
-
----
-
-## 🛠️ Skills
-**Languages & ML**: Python · C/C++ · TinyML · TensorFlow · scikit‑learn  
-**Web & Data**: Flask · FastAPI · Pandas · NumPy · Selenium · BeautifulSoup  
-**DevOps & Infra**: Docker · GitHub Actions · Proxmox · Ubuntu · Bash  
-**Hardware**: OpenBCI · Raspberry Pi · Arduino · Unreal Engine  
-
----
-
-## 🌐 Blog & Contact
-- **Blog**: [blog.hachn.in](https://blog.hachn.in)  
-- **Email**: akash.sivasubramanian@gmail.com  
-- **GitHub**: [github.com/akash‑siv](https://github.com/akash-siv)  
-- **LinkedIn**: [linkedin.com/in/akash‑sivasubramanian](https://linkedin.com/in/akash-sivasubramanian)
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-siv&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=akash-siv&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-siv&show_icons=true&locale=en" alt="akash-siv" /></p>
