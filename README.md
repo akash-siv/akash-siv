@@ -7,7 +7,6 @@
 
 - 📝 I regularly write articles on [blog.hachn.in](blog.hachn.in)
 
-- 📄 Know about my experiences [https://akashsivasubramanian.tiiny.site](https://akashsivasubramanian.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
