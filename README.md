@@ -38,6 +38,6 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-siv&show_icons=true&locale=en&layout=compact" alt="akash-siv" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-siv&show_icons=true&locale=en&layout=compact" alt="akash-siv" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-siv&show_icons=true&locale=en" alt="akash-siv" /></p>
